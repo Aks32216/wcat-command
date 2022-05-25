@@ -1,4 +1,4 @@
-Hi This content is of the file4.txt
+Hi This content is of the file1.txt
 
 
 
@@ -10,7 +10,8 @@ giving spaces to eliminate it
 
 
 
-and this is a test content for wcat commandHi This content is of the file1.txt
+and this is a test content for wcat command
+Hi This content is of the file2.txt
 
 
 
