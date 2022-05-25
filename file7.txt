@@ -1,0 +1,26 @@
+Hi This content is of the file1.txt
+
+
+
+
+
+giving spaces to eliminate it
+
+
+
+
+
+and this is a test content for wcat command
+Hi This content is of the file1.txt
+
+
+
+
+
+giving spaces to eliminate it
+
+
+
+
+
+and this is a test content for wcat command

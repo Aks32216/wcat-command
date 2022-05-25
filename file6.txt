@@ -1,0 +1,13 @@
+Hi This content is of the file6.txt
+
+
+
+
+
+giving spaces to eliminate it
+
+
+
+
+
+and this is a test content for wcat command
